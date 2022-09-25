@@ -8,12 +8,12 @@
   <br>
 <br>
 
-##Projects Im Working On:
+Projects Im Working On
 <br>
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuxV2&repo=BloxFlip-Predictor-Template&theme=codeSTACKr)
 <br>
 <br>
-##Github Stats:
+Github Stats
 <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DuxV2&show_icons=true&theme=codeSTACKr)
 <br>
