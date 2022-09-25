@@ -8,7 +8,7 @@
   <br>
 <br>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=codeSTACKr)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DuxV2&repo=DuxV2&theme=codeSTACKr)
 <br>
 <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DuxV2&show_icons=true&theme=codeSTACKr)
