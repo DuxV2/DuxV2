@@ -1,4 +1,8 @@
-#
+# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
@@ -6,12 +10,12 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- :telescope: Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- :seedling: I’m currently learning everything :rofl:
-- :people_with_bunny_ears_partying: I’m looking to collaborate with other content creators
-- :goal: 2022 Goals: Learn more about web3
-- :zap: Fun fact: I love to draw and play guitar / drums
-- :heart_eyes_cat: Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I love to draw and play guitar / drums
+- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
 
@@ -54,6 +58,47 @@
 <br />
 
 ---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Coinbase Hacked! $16,308 Stolen - Don’t let this happen to you!!](https://www.youtube.com/watch?v=1GJkuRa1PjM)
+- [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
+- [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
+- [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
+- [JavaScript Variables](https://www.youtube.com/watch?v=oXegXhqGQ30)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
+- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#11](https://github.com/codeSTACKr/nft-landing-page/pull/11) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
+2. ❌ Closed PR [#21](https://github.com/codeSTACKr/nft-landing-page/pull/21) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
+3. ❌ Closed PR [#16](https://github.com/codeSTACKr/nft-landing-page/pull/16) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
+4. ❌ Closed PR [#14](https://github.com/codeSTACKr/nft-landing-page/pull/14) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
+5. ❌ Closed PR [#9](https://github.com/codeSTACKr/nft-landing-page/pull/9) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
+<!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
