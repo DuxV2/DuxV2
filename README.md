@@ -6,6 +6,6 @@
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=codeSTACKr)
 <br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=DuxV2&show_icons=true&theme=codeSTACKr
+![Github stats](https://github-readme-stats.vercel.app/api?username=DuxV2&show_icons=true&theme=codeSTACKr)
