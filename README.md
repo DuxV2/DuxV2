@@ -1,6 +1,5 @@
 <div align="center">
   <h1 style="font-weight: bold;"> Languages Ive Learned </h1>
-  <h2>I have knowledge in JavaScript, Java, HTML, Networking, Server Development, Moderation , Adminstration.</h2>
   <br/>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
