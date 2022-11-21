@@ -11,7 +11,7 @@
 Projects Im Working On
 <br>
 <br>
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=DuxV2&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=itschasa&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
 <br>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuxV2&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&hide_title=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itschasa&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&hide_title=true" />
 <br>
